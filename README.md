@@ -3,7 +3,7 @@
 This project was created to learning the basics of the Spring Boot framework while following Amigoscode’s Spring Boot for Beginners course.
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postgres,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postgres,postman,vscode)](https://skillicons.dev)
 
 ## Java Files
 The Java files follow a simple MVC-like architecture:
